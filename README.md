@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [LibrePhotos-Frontend](https://github.com/luisliz/librephotos-frontend)
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: Vue 3 
 - 🤔 I’m looking for help with: Go w/ Grpc
 - 💬 Ask me about: Code and home servers
