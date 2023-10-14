@@ -3,10 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: Vue 3 
-- 🤔 I’m looking for help with: Go w/ Grpc
+- 🌱 I’m currently learning: Home server stuff 
 - 💬 Ask me about: Code and home servers
-- 📫 How to reach me: Twitter @luijli
 - 😄 Pronouns: he/him
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luisliz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
