@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Luis a nerdy who loves computers
 > Check out my [Stars](https://github.com/luisliz?tab=stars) I try to keep them organized, and I'm always exploring.
 
-## Try Insighthub! (beta and name pending) [Insighthub](https://task.nix2k39.com)
+## Try Glydin! (beta and name pending) [Glydin](https://glydin.com) [iOS](https://apps.apple.com/us/app/glydin/id6806372550) [Android](https://play.google.com/store/apps/details?id=com.impobits.glydin)
 - A time based kanban board task app
 - Tracking of habits, things you consume and keep track of routines
 - Organize tasks by category and projects
+
 
 ### 🎉 Fun Technical interests
 - Nixos configuration used for
@@ -15,6 +16,7 @@
 ### 🔭 Languages
 - Work:
   - Current: Help work on some huge services in c# & Observability expert
+  - Personal: Golang 
   - Previous: C# (UWP) connected to OS in winRT c++
 - Preferred: 👑 Go for apis & svelte
 - Previously preferred: Vue
