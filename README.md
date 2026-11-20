@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Luis a nerdy who loves computers
 > Check out my [Stars](https://github.com/luisliz?tab=stars) I try to keep them organized, and I'm always exploring.
 
+I mostly work on my personal git server. Github does not represent my activity accurately. 
+
 ## Try Glydin! [Glydin](https://glydin.com) [iOS](https://apps.apple.com/us/app/glydin/id6806372550) [Android](https://play.google.com/store/apps/details?id=com.impobits.glydin)
 - A time based kanban board task app
 - Tracking of habits, things you consume and keep track of routines
